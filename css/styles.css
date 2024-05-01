@@ -6,6 +6,8 @@ h1 {
 table {
   width: 100%;
   text-align: center;
+  border-collapse: collapse; 
+  border: 2px solid black;
 }
 
 p {
