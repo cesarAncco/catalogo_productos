@@ -7,3 +7,13 @@ table {
   width: 100%;
   text-align: center;
 }
+
+p {
+  font-size: 1.5em;
+  text-align: justify;
+}
+
+span {
+  background-color: yellow;
+  color: red;
+}
